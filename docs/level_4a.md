@@ -24,3 +24,6 @@ Spam-Posts auf Plattformen müssen aktiv entfernt und verhindert werden. Um dies
 - Automatische Erkennung und Filter
 - Benutzermeldungen und Moderation
 - Faire Regulierung (Klare Richtlinien)
+
+
+Fertig hier? **Dann besuche die letzte Station, [Level 5](level_5.md)!**
